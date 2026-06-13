@@ -135,7 +135,7 @@ Run the notebooks in the following order:
 
 Project Presentation:
 
-A pptx has been prepared to present the project. It can be found at the following link: https://docs.google.com/presentation/d/11mlr9fDjG3kvB9oTUlHLKAdmyKNFDGN4/edit
+A pptx has been prepared to present the project. It can be found at the following link: https://docs.google.com/presentation/d/1zIxIpVIL6Y22zz712fhg25oS0c2q1Ggl/edit?slide=id.p1#slide=id.p1
 
 Project Output
 
